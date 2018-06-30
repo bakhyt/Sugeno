@@ -1,0 +1,7 @@
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\bin\Debug\mamdani1.exe.config
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\bin\Debug\mamdani1.exe
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\bin\Debug\mamdani1.pdb
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\obj\Debug\mamdani1.csprojResolveAssemblyReference.cache
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\obj\Debug\mamdani1.csproj.CoreCompileInputs.cache
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\obj\Debug\mamdani1.exe
+C:\Users\08mcm\source\repos\mamdani1\mamdani1\obj\Debug\mamdani1.pdb

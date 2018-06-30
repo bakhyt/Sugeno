@@ -1,0 +1,14 @@
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.csprojResolveAssemblyReference.cache
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.Form1.resources
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.Properties.Resources.resources
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.csproj.GenerateResource.Cache
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.csproj.CoreCompileInputs.cache
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\bin\Debug\SugenoModel.exe.config
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\bin\Debug\SugenoModel.exe
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\bin\Debug\SugenoModel.pdb
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.exe
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.pdb
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\bin\Debug\SugenoModel.exe.manifest
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\bin\Debug\SugenoModel.application
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.exe.manifest
+C:\Users\08mcm\source\repos\SugenoModel\SugenoModel\obj\Debug\SugenoModel.application

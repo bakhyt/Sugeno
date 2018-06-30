@@ -1,0 +1,7 @@
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\bin\Debug\SugenoFuzzyModel.exe.config
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\bin\Debug\SugenoFuzzyModel.exe
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\bin\Debug\SugenoFuzzyModel.pdb
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\obj\Debug\SugenoFuzzyModel.csprojResolveAssemblyReference.cache
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\obj\Debug\SugenoFuzzyModel.csproj.CoreCompileInputs.cache
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\obj\Debug\SugenoFuzzyModel.exe
+C:\Users\08mcm\source\repos\SugenoFuzzyModel\SugenoFuzzyModel\obj\Debug\SugenoFuzzyModel.pdb
